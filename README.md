@@ -42,4 +42,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Jayser Pilapil (u28591669@byui.edu)
+* Jayser Pilapil (u28591669@byui.edu) 
